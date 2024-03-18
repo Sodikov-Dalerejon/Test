@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins";
+  background-color: grey;
+}
+
+.container {
+  display: inline-block;
+  width: 350px;
+  height: 250px;
+  background-color: #fff;
+  margin: 50px 400px;
+  padding: 30px;
+  border-radius: 10px;
+  padding-top: 60px;
+}
+
+.numberinput {
+  border-radius: 5px;
+  border: none;
+  border: 1px solid #000;
+  padding-right: 80px;
+}
+
+.expdtinput {
+  border-radius: 5px;
+  border: none;
+  border: 1px solid #000;
+  padding-right: 80px;
+}
+.nameinput {
+  border-radius: 5px;
+  border: none;
+  border: 1px solid #000;
+  padding-right: 80px;
+}
+.cvsinput {
+  border-radius: 5px;
+  border: none;
+  border: 1px solid #000;
+  margin-right: 200px;
+  padding-right: 80px;
+}
+
+.submit-btn {
+  padding: 0 20px;
+  width: 40px;
+  height: 10px;
+  border-radius: 5px;
+  border: none;
+  border: 1px solid #000;
+  margin-left: 90px;
+  text-decoration: none;
+  color: #000;
+}

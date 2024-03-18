@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins";
+    background-color: grey;
+}
+
+.container{
+    background-color: #fff;
+    height: 410px;
+    width: 300px;
+    margin-top: 90px;
+    margin-left: 450px;
+    padding-left: 30px;
+    border-radius: 10px;
+}
+
+h2{
+    padding-top: 20px;
+    padding-left: 100px;
+}
+.gender{
+    display: inline-flex;
+}
+
+.register{
+    display: inline-flex;
+}
+
+.Submit-btn{
+    border-radius: 4px;
+    color: #000;
+    border: none;
+    border: 1px solid black;
+    display: block;
+}
+
+p{
+    margin: 2px;
+}
+
+.input{
+    width: 170px;
+}
+
+.input4{
+    width: 170px;
+    box-sizing: border-box;
+}
+.selection{
+    display: block;
+    width: 257px;
+}
